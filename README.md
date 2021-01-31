@@ -1,19 +1,19 @@
 # experimental_models
 
-*This project aims to test different activation functions to see which performs well with mnist dataset.
+* This project aims to test different activation functions to see which performs well with mnist dataset.
 
 I have train model with different activations for epoch of 10.
 
-*Results:
+* Results:
 
 
-*Tensorflow activations: 
+* Tensorflow activations: 
 
 relu (train_accuracy:97% , test_accuracy:96% )
 
 softmax (train_accuracy:94% , test_accuracy:94% )
 
-*Custom non linear activations:
+* Custom non linear activations:
 
 add_c3 (train_accuracy:90% , test_accuracy:92% )
 
